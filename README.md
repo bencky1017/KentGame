@@ -14,4 +14,4 @@
 网址
 ==
 
-Kent Game游戏网址：[Kent Game](https://bencky1017.github.io/KentGame/)
+Kent Game游戏网址：[Kent Game](https://bencky1017.github.io/KentGame/index.html)
