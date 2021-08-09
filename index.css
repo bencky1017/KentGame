@@ -20,6 +20,15 @@
 .li:hover{
 	color:orange;
 }
+.open a{
+	text-decoration: none;
+}
+.rule,.open a:link{
+	color: black;
+}
+.open a:visited{
+	color: black;
+}
 .rulemask{
 	position: absolute;
 	width: 100%;
