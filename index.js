@@ -1,2 +1,2 @@
 var index=[
-	"①将正确答案写在地址栏中，如：答案为index，则把地址的index.html改成KentGame.html即可。<br>②为了保证游戏体验，建议使用<span style='font-weight:900;'>电脑</span>进行（Chrome最佳）<br>③题目解密需要：计算机、语言、数学等相关知识。<br>④学会百度也是一个很棒的技能。<br>⑤可能题型在网络中的有类似，但是题目内容为作者本人原创。<br>⑥答案的<span style='color:red;font-weight:900'>大小写并不敏感</span>。<br><span style='color:orange;font-weight:bold'>【投稿】：有好的想法，或者题目类型，可从首页的详细信息联系作者，或者发送邮件。</span>"]
+	"①将正确答案写在地址栏中，如：答案为index，则把地址的KentGame.html改成index.html即可。<br>②为了保证游戏体验，建议使用<span style='font-weight:900;'>电脑</span>进行（Chrome最佳）<br>③题目解密需要：计算机、语言、数学等相关知识。<br>④学会百度也是一个很棒的技能。<br>⑤可能题型在网络中的有类似，但是题目内容为作者本人原创。<br>⑥答案的<span style='color:red;font-weight:900'>大小写并不敏感</span>。<br><span style='color:orange;font-weight:bold'>【投稿】：有好的想法，或者题目类型，可从首页的详细信息联系作者，或者发送邮件。</span>"]
