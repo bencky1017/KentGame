@@ -17,7 +17,7 @@ var javascript={
 			$('.rulemask').removeClass('dyna2');
 			$('.rulemask').addClass('dyna');
 		});
-		$('.close').click(function(){
+		$('.close,.ruleframe').click(function(){
 			$('.rulemask').removeClass('dyna');
 			$('.rulemask').addClass('dyna2');
 		});
